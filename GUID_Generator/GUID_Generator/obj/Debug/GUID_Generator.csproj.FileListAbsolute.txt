@@ -1,0 +1,10 @@
+D:\log\GUID_Generator\GUID_Generator\bin\Debug\GUID_Generator.exe.config
+D:\log\GUID_Generator\GUID_Generator\bin\Debug\GUID_Generator.exe
+D:\log\GUID_Generator\GUID_Generator\bin\Debug\GUID_Generator.pdb
+D:\log\GUID_Generator\GUID_Generator\obj\Debug\GUID_Generator.csprojAssemblyReference.cache
+D:\log\GUID_Generator\GUID_Generator\obj\Debug\GUID_Generator.Form1.resources
+D:\log\GUID_Generator\GUID_Generator\obj\Debug\GUID_Generator.Properties.Resources.resources
+D:\log\GUID_Generator\GUID_Generator\obj\Debug\GUID_Generator.csproj.GenerateResource.cache
+D:\log\GUID_Generator\GUID_Generator\obj\Debug\GUID_Generator.csproj.CoreCompileInputs.cache
+D:\log\GUID_Generator\GUID_Generator\obj\Debug\GUID_Generator.exe
+D:\log\GUID_Generator\GUID_Generator\obj\Debug\GUID_Generator.pdb
